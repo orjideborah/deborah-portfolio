@@ -167,7 +167,7 @@ const Portfolio = () => {
                   <span className="text-white text-4xl font-bold">DO</span>
                 </div>
                 <h1 className="text-5xl md:text-7xl font-bold text-gray-800 mb-4">
-                  Hi, I'm <span className="bg-gradient-to-r from-blue-500 to-purple-600 bg-clip-text text-transparent">Deborah Esther Orji</span>
+                  Hi, I'm <span className="bg-gradient-to-r from-blue-500 to-purple-600 bg-clip-text text-transparent">Deborah Orji</span>
                 </h1>
                 <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
                   I code, I advocate, I build for impact. Front-end developer with a legal mind, creating technology solutions for social justice and compliance.
@@ -395,7 +395,7 @@ const Portfolio = () => {
                   <div className="space-y-4">
                     <div className="flex items-center space-x-3">
                       <Mail className="w-5 h-5 text-blue-500" />
-                      <span className="text-gray-700">orjideborah@gmail.com</span>
+                      <span className="text-gray-700">orjideborahesther@gmail.com</span>
                     </div>
                     <div className="flex items-center space-x-3">
                       <MapPin className="w-5 h-5 text-blue-500" />
