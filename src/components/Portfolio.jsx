@@ -395,7 +395,7 @@ const Portfolio = () => {
                   <div className="space-y-4">
                     <div className="flex items-center space-x-3">
                       <Mail className="w-5 h-5 text-blue-500" />
-                      <span className="text-gray-700">deborah.orji@email.com</span>
+                      <span className="text-gray-700">orjideborah@gmail.com</span>
                     </div>
                     <div className="flex items-center space-x-3">
                       <MapPin className="w-5 h-5 text-blue-500" />
